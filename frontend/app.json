@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Meet & Move",
+    "slug": "meet-and-move",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
